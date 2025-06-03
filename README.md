@@ -2,6 +2,10 @@
 
 A full-stack MERN application that allows users to share real-life travel experiences, including detailed cost breakdowns, images, and travel tips. It's a community-driven platform where travelers help each other by sharing insights from their journeys.
 
+## images
+
+![Travelbuddypng](https://github.com/user-attachments/assets/a52e31cc-66e6-4180-82b8-9770505c391d)
+
 ##  Features
 
 ### Core Features
