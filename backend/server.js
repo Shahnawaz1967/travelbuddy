@@ -43,10 +43,10 @@ app.use(express.urlencoded({ extended: true, limit: "10mb" }))
 
 connectDB()
 // Routes
-app.use("/api/auth", authRoutes)
-app.use("/api/trips", tripRoutes)
-app.use("/api/comments", commentRoutes)
-app.use("/api/wishlist", wishlistRoutes)
+app.use("/auth", authRoutes)
+app.use("/trips", tripRoutes)
+app.use("/comments", commentRoutes)
+app.use("/wishlist", wishlistRoutes)
 
 // Health check endpoint
 app.get("/api/health", (req, res) => {
