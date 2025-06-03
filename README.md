@@ -23,7 +23,7 @@ A full-stack MERN application that allows users to share real-life travel experi
 - **Smooth Animations**: Framer Motion for beautiful transitions
 - **Modern UI**: Clean, intuitive interface with Tailwind CSS
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** with Vite for fast development
