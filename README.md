@@ -2,7 +2,7 @@
 
 A full-stack MERN application that allows users to share real-life travel experiences, including detailed cost breakdowns, images, and travel tips. It's a community-driven platform where travelers help each other by sharing insights from their journeys.
 
-## 🚀 Features
+##  Features
 
 ### Core Features
 - **User Authentication**: JWT-based authentication with secure password hashing
@@ -109,7 +109,7 @@ A full-stack MERN application that allows users to share real-life travel experi
    - Frontend: http://localhost:5173
    - Backend API: http://localhost:5000/api
 
-## 📚 API Documentation
+## API Documentation
 
 ### Authentication Endpoints
 - `POST /api/auth/register` - Register new user
@@ -157,7 +157,7 @@ A full-stack MERN application that allows users to share real-life travel experi
 - Loading states and micro-interactions
 - Smooth scrolling and reveal animations
 
-## 🔒 Security Features
+##  Security Features
 
 - **Password Hashing**: bcryptjs with salt rounds
 - **JWT Authentication**: Secure token-based auth
@@ -167,7 +167,7 @@ A full-stack MERN application that allows users to share real-life travel experi
 - **Helmet**: Security headers for Express
 - **Environment Variables**: Sensitive data protection
 
-## 🚀 Deployment
+##  Deployment
 
 ### Frontend (Vercel)
 1. Connect your GitHub repository to Vercel
@@ -185,7 +185,7 @@ A full-stack MERN application that allows users to share real-life travel experi
 2. Configure network access and database user
 3. Update MONGODB_URI in environment variables
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 ### Planned Features
 - **Image Upload**: Cloudinary integration for trip photos
@@ -205,7 +205,7 @@ A full-stack MERN application that allows users to share real-life travel experi
 - **Testing**: Unit and integration tests
 - **CI/CD**: Automated testing and deployment
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -213,9 +213,6 @@ A full-stack MERN application that allows users to share real-life travel experi
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ##  Acknowledgments
 
